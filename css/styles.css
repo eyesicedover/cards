@@ -1,4 +1,19 @@
+body {
+  background-image: url("http://www.numericana.com/answer/bachet.gif");
+}
+
 ul {
     text-align: center;
     list-style-position: inside;
+}
+.container {
+  background-color: white;
+  opacity: .95;
+}
+
+.jumbotron {
+  background-image: url("http://designshack.co.uk/wp-content/uploads/payingcards-4.jpg");
+  background-repeat: repeat;
+  background-size: auto 100%;
+  background-size: fill;
 }
